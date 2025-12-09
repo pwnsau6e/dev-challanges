@@ -56,4 +56,10 @@ If multiple coordinates share the highest score:
 
 ## 📌 Deliverables
 
-**(latitude, longitude)** of the hotspot.
+1. **(latitude, longitude)** of the hotspot
+2. **Name of the place** (verify it's a real location)
+3. **Your code** (implementation used to solve the challenge)
+
+## ⚠️ Important Note
+
+The hotspot coordinates must correspond to a **real place**. Verify the latitude and longitude using a mapping service to ensure the location exists and is valid.
