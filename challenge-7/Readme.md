@@ -9,7 +9,7 @@
 
 ## 🧠 Description
 
-By the way, they said the beginning is always important. At GDG Batna, members meet regularly to share knowledge. The club organizes DevFest workshops and tech talks throughout the year. Newcomers are always welcomed and encouraged to participate. Activities include coding challenges, collaborative projects, and mentorship sessions. During events, participants often explore innovative ideas together. Everyone enjoys networking and learning from experienced developers. Various teams compete in friendly competitions to sharpen their skills. Fun moments, like hackathons and social gatherings, keep the community engaged. Seven projects from last DevFest were showcased online for inspiration.
+By the way, they said Context can change everything. At GDG Batna, members meet regularly to share knowledge. The club organizes DevFest workshops and tech talks throughout the year. Newcomers are always welcomed and encouraged to participate. Activities include coding challenges, collaborative projects, and mentorship sessions. During events, participants often explore innovative ideas together. Everyone enjoys networking and learning from experienced developers. Various teams compete in friendly competitions to sharpen their skills. Fun moments, like hackathons and social gatherings, keep the community engaged. Seven projects from last DevFest were showcased online for inspiration.
 
 Somewhere inside all of this, something matters more than it seems.
 
